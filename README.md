@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-preview
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Systems Engineering student passionate about technology and software development, I have acquired knowledge in various areas of computer science, including programming, databases, operating systems and networks.</h3>
 
