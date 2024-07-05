@@ -1,3 +1,7 @@
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <h1 align="center"><b>Hola, soy Manuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -6,7 +10,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
 
 
 <br>
@@ -100,6 +104,20 @@
 <br>
 <br>
 
+<!-- Redes Sociales -->
+<h2 align="center"><b>Redes Sociales</b></h2>
+<p align="center">
+    <a href="https://linkedin.com/in/tu_usuario"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/tu_usuario"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/tu_usuario"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
 -----
+
 <br>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
