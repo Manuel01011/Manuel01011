@@ -7,8 +7,8 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **Sobre mí**
 <br>
 - Estudiante apasionado de Ingeniería en Sistemas.
-- Sitio web personal [enlace](https://www.0xabdulkhalid.ml)
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum]()
+- Sitio web personal [enlace]
+- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum]
 
 <br><br>
 
