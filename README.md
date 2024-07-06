@@ -8,7 +8,7 @@
 <br>
 - Estudiante apasionado de Ingeniería en Sistemas.
 - Sitio web personal [enlace](https://www.0xabdulkhalid.ml)
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum](https://read.cv/0xabdulkhalid)
+- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum]()
 
 <br><br>
 
