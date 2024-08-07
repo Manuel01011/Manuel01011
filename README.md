@@ -6,8 +6,9 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **Sobre mí**
 <br>
-- Estudiante apasionado de Ingeniería en Sistemas.
-- Sitio web personal [enlace]
+
+Estudiante de tercer año de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, con sólidos conocimientos en desarrollo de software. Con gran conocimiento en lenguajes de programación como C++, C, Java, JavaScript y PHP, además de una fuerte competencia en la gestión de bases de datos, incluyendo MySQL, Oracle, PostgreSQL y Microsoft SQL Server. Familiarizado con frameworks avanzados como Spring Boot y Laravel, siempre buscando aplicar mis habilidades en proyectos nuevos e innovadores.
+
 - Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum]
 
 <br><br>
@@ -28,13 +29,12 @@
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br>   
     
 - **Desarrollo Front-End**:
 
-   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
