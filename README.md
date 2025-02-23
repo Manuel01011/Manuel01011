@@ -7,7 +7,7 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **Sobre mí**
 <br>
 
-Estudiante de tercer año de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, con sólidos conocimientos en desarrollo de software. Con gran conocimiento en lenguajes de programación como C++, C, Java, JavaScript y PHP, además de una fuerte competencia en la gestión de bases de datos, incluyendo MySQL, Oracle, PostgreSQL y Microsoft SQL Server. Familiarizado con frameworks avanzados como Spring Boot y Laravel, siempre buscando aplicar mis habilidades en proyectos nuevos e innovadores.
+Estudiante de cuarto año de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, con sólidos conocimientos en desarrollo de software. Con gran conocimiento en lenguajes de programación como C++, C, Java, JavaScript y PHP, además de una fuerte competencia en la gestión de bases de datos, incluyendo MySQL, Oracle, PostgreSQL y Microsoft SQL Server. Familiarizado con frameworks avanzados como Spring Boot y Laravel, siempre buscando aplicar mis habilidades en proyectos nuevos e innovadores.
 
 - Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum](https://github.com/Manuel01011/Manuel01011/blob/main/CV.pdf)
 
