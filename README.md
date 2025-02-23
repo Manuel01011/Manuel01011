@@ -108,7 +108,7 @@ Estudiante de cuarto año de Ingeniería en Sistemas en la Universidad Nacional 
 <!-- Redes Sociales -->
 <h2 align="center"><b>Redes Sociales</b></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/manuel-mora-525886289/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/manuel-mora-sandi-525886289/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/manuel_m0ra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/profile.php?id=100011502739532"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
 </p>
@@ -117,7 +117,7 @@ Estudiante de cuarto año de Ingeniería en Sistemas en la Universidad Nacional 
 <!-- Contacto -->
 <h2 align="center"><b>Contacto</b></h2>
 <p align="center">
-  <a href="mailto:az885877@gmail.com"><img src="https://img.icons8.com/material-outlined/24/FFFFFF/email--v1.png"/> az885877@gmail.com</a>
+  <a href="mailto:manuelmorasandi@gmail.com"><img src="https://img.icons8.com/material-outlined/24/FFFFFF/email--v1.png"/> manuelmorasandi@gmail.com</a>
 </p>
 
 -----
