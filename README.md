@@ -22,7 +22,7 @@ efficient solutions.
 
 <p align="center">
 
-- **Lenguajes**:
+- **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,7 @@ efficient solutions.
 
 <br>   
     
-- **Desarrollo Front-End**:
+- **Front-End Development**:
 
    ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -45,13 +45,13 @@ efficient solutions.
 
 <br>
 
-- **Desarrollo Back-End**:
+- **Back-End Development**:
 
    ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <br>
 
-- **Bases de Datos**:
+- **Databases**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,14 +61,14 @@ efficient solutions.
 
 <br>
 
-- **Control de Versiones**:
+- **Version Control**:
 
     ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
-- **Software y Herramientas**:
+- **Software and Tools**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -76,7 +76,7 @@ efficient solutions.
 
 <br>
 
-- **Sistemas Operativos**:
+- **Operating Systems**:
 
     ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
     ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
