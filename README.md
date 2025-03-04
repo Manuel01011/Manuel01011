@@ -2,14 +2,16 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center"><b>Hola, soy Manuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I am Manuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **Sobre mí**
 <br>
 
-Estudiante de cuarto año de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, con sólidos conocimientos en desarrollo de software. Con gran conocimiento en lenguajes de programación como C++, C, Java, JavaScript y PHP, además de una fuerte competencia en la gestión de bases de datos, incluyendo MySQL, Oracle, PostgreSQL y Microsoft SQL Server. Familiarizado con frameworks avanzados como Spring Boot y Laravel, siempre buscando aplicar mis habilidades en proyectos nuevos e innovadores.
-
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum](https://github.com/Manuel01011/Manuel01011/blob/main/ManuelMoraSandi.pdf)
+Fourth-year Systems Engineering student at the National University of Costa Rica, with a strong self-taught 
+approach to learning. I have developed skills in information systems development, covering areas such as 
+databases, operating systems, networks, web development, and data structures. I am currently seeking 
+opportunities to apply and expand my experience in professional environments, contributing with effective and 
+efficient solutions.
 
 <br><br>
 
