@@ -109,6 +109,16 @@ efficient solutions.
 <br>
 <br>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuel01011&show_icons=true&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel01011&theme=tokyonight" alt="mystreak"/>
+</div>
+
+<br>
+<br>
+
 <!-- Redes Sociales -->
 <h2 align="center"><b>Redes Sociales</b></h2>
 <p align="center">
