@@ -7,11 +7,9 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
 <br>
 
-Fourth-year Systems Engineering student at the National University of Costa Rica, with a strong self-taught 
-approach to learning. I have developed skills in information systems development, covering areas such as 
-databases, operating systems, networks, web development, and data structures. I am currently seeking 
-opportunities to apply and expand my experience in professional environments, contributing with effective and 
-efficient solutions.
+Systems Engineer from the National University of Costa Rica with experience in web and mobile systems 
+development. Skilled in full-stack development using Angular, Java, Kotlin, and PostgreSQL. Strong analytical 
+mindset, communication, and problem-solving abilities, focused on delivering efficient, user-centered solutions..
 
 <br><br>
 
